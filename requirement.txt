@@ -1,5 +1,5 @@
-numpy==1.26.4
-pandas==2.2.2
+numpy==1.23
+pandas==2.0.2
 pydeck==0.9.1
 errant==3.0.0
 scikit-learn==1.3.0
@@ -7,8 +7,7 @@ nltk==3.8.1
 spacy>=3.0.0,<4.0.0
 transformers[torch]==4.44.0
 evaluate==0.4.2
-bert-score==0.3.13
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.0/en_core_web_sm-3.4.0-py3-none-any.whl
+pien_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.0/en_core_web_sm-3.4.0-py3-none-any.whl
 
 fastapi
 pydantic
